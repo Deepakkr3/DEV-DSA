@@ -1,0 +1,143 @@
+ S.No  Topic                                Status 
+ ---:  -----------------------------------  :----: 
+    1  OOP Concepts                            ☐   
+    2  Interface vs Abstract Class             ☐   
+    3  String, StringBuffer, StringBuilder     ☐   
+    4  Object Class                            ☐   
+    5  equals() & hashCode()                   ☐   
+    6  Exception Handling                      ☐   
+    7  final, finally, finalize                ☐   
+    8  Immutable Class                         ☐   
+    9  Wrapper Classes                         ☐   
+   10  Serialization                           ☐   
+   11  JVM, JRE, JDK                           ☐   
+   12  Memory Management                       ☐   
+   13  Garbage Collection                      ☐   
+   14  List                                    ☐   
+   15  ArrayList                               ☐   
+   16  LinkedList                              ☐   
+   17  Vector                                  ☐   
+   18  Stack                                   ☐   
+   19  Set                                     ☐   
+   20  HashSet                                 ☐   
+   21  LinkedHashSet                           ☐   
+   22  TreeSet                                 ☐   
+   23  Map                                     ☐   
+   24  HashMap                                 ☐   
+   25  LinkedHashMap                           ☐   
+   26  TreeMap                                 ☐   
+   27  ConcurrentHashMap                       ☐   
+   28  PriorityQueue                           ☐   
+   29  Comparable vs Comparator                ☐   
+   30  Fail Fast vs Fail Safe                  ☐   
+   31  Thread Lifecycle                        ☐   
+   32  Runnable vs Callable                    ☐   
+   33  Synchronization                         ☐   
+   34  volatile                                ☐   
+   35  Atomic Classes                          ☐   
+   36  Deadlock                                ☐   
+   37  Race Condition                          ☐   
+   38  Locks                                   ☐   
+   39  ThreadLocal                             ☐   
+   40  Executor                                ☐   
+   41  ExecutorService                         ☐   
+   42  ThreadPoolExecutor                      ☐   
+   43  Fixed Thread Pool                       ☐   
+   44  Cached Thread Pool                      ☐   
+   45  ScheduledExecutorService                ☐   
+   46  Future                                  ☐   
+   47  CompletableFuture                       ☐   
+   48  ForkJoinPool                            ☐   
+   49  Lambda                                  ☐   
+   50  Functional Interface                    ☐   
+   51  Method Reference                        ☐   
+   52  Stream API                              ☐   
+   53  filter                                  ☐   
+   54  map                                     ☐   
+   55  flatMap                                 ☐   
+   56  reduce                                  ☐   
+   57  Collectors                              ☐   
+   58  groupingBy                              ☐   
+   59  Optional                                ☐   
+   60  Parallel Stream                         ☐   
+   61  Default Methods                         ☐   
+   62  IOC                                     ☐   
+   63  Dependency Injection                    ☐   
+   64  Bean Lifecycle                          ☐   
+   65  REST API                                ☐   
+   66  Validation                              ☐   
+   67  Exception Handling (Spring)             ☐   
+   68  Filters                                 ☐   
+   69  Interceptors                            ☐   
+   70  Profiles                                ☐   
+   71  Spring Security Basics                  ☐   
+   72  Async                                   ☐   
+   73  Scheduler                               ☐   
+   74  Entity                                  ☐   
+   75  Repository                              ☐   
+   76  JPQL                                    ☐   
+   77  Native Query                            ☐   
+   78  Pagination                              ☐   
+   79  Lazy vs Eager                           ☐   
+   80  Cascade Types                           ☐   
+   81  Transactions                            ☐   
+   82  Joins                                   ☐   
+   83  Group By                                ☐   
+   84  Having                                  ☐   
+   85  Subquery                                ☐   
+   86  Window Functions                        ☐   
+   87  Indexing                                ☐   
+   88  Normalization                           ☐   
+   89  ACID                                    ☐   
+   90  Architecture                            ☐   
+   91  API Gateway                             ☐   
+   92  Service Discovery                       ☐   
+   93  Circuit Breaker                         ☐   
+   94  Config Server                           ☐   
+   95  Load Balancer (Microservices)           ☐   
+   96  Producer                                ☐   
+   97  Consumer                                ☐   
+   98  Topic                                   ☐   
+   99  Partition                               ☐   
+  100  Offset                                  ☐   
+  101  Consumer Group                          ☐   
+  102  Replication                             ☐   
+  103  ISR                                     ☐   
+  104  Exactly Once                            ☐   
+  105  Cache (Redis)                           ☐   
+  106  TTL                                     ☐   
+  107  Pub/Sub                                 ☐   
+  108  Distributed Lock                        ☐   
+  109  Image                                   ☐   
+  110  Container                               ☐   
+  111  Dockerfile                              ☐   
+  112  Docker Compose                          ☐   
+  113  Networking                              ☐   
+  114  Volumes                                 ☐   
+  115  Reverse Proxy                           ☐   
+  116  HTTPS                                   ☐   
+  117  SSL Termination                         ☐   
+  118  Load Balancing (Nginx)                  ☐   
+  119  Path Routing                            ☐   
+  120  grep                                    ☐   
+  121  find                                    ☐   
+  122  awk                                     ☐   
+  123  sed                                     ☐   
+  124  ps                                      ☐   
+  125  top                                     ☐   
+  126  curl                                    ☐   
+  127  systemctl                               ☐   
+  128  journalctl                              ☐   
+  129  Branching                               ☐   
+  130  Merge                                   ☐   
+  131  Rebase                                  ☐   
+  132  Cherry Pick                             ☐   
+  133  Stash                                   ☐   
+  134  Reset                                   ☐   
+  135  Revert                                  ☐   
+  136  Load Balancer (System Design)           ☐   
+  137  Cache (System Design)                   ☐   
+  138  Message Queue                           ☐   
+  139  URL Shortener                           ☐   
+  140  Notification System                     ☐   
+  141  Rate Limiter                            ☐   
