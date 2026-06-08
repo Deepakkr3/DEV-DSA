@@ -1,9 +1,9 @@
  S.No  Topic                                Status 
  ---:  -----------------------------------  :----: 
-    1  OOP Concepts                            ☐   
-    2  Interface vs Abstract Class             ☐   
-    3  String, StringBuffer, StringBuilder     ☐   
-    4  Object Class                            ☐   
+    1  OOP Concepts                            done   
+    2  Interface vs Abstract Class             done   
+    3  String, StringBuffer, StringBuilder     done   
+    4  Object Class                            done  
     5  equals() & hashCode()                   ☐   
     6  Exception Handling                      ☐   
     7  final, finally, finalize                ☐   
