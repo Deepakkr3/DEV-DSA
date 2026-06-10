@@ -4,8 +4,8 @@
     2  Interface vs Abstract Class             done   
     3  String, StringBuffer, StringBuilder     done   
     4  Object Class                            done  
-    5  equals() & hashCode()                   ☐   
-    6  Exception Handling                      ☐   
+    5  equals() & hashCode()                   done  
+    6  Exception Handling                      done  
     7  final, finally, finalize                ☐   
     8  Immutable Class                         ☐   
     9  Wrapper Classes                         ☐   
