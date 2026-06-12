@@ -6,10 +6,10 @@
     4  Object Class                            done  
     5  equals() & hashCode()                   done  
     6  Exception Handling                      done  
-    7  final, finally, finalize                ☐   
-    8  Immutable Class                         ☐   
-    9  Wrapper Classes                         ☐   
-   10  Serialization                           ☐   
+    7  final, finally, finalize                done 
+    8  Immutable Class                         done  
+    9  Wrapper Classes                         done  
+   10  Serialization                           done  
    11  JVM, JRE, JDK                           ☐   
    12  Memory Management                       ☐   
    13  Garbage Collection                      ☐   
