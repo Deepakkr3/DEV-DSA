@@ -10,9 +10,9 @@
     8  Immutable Class                         done  
     9  Wrapper Classes                         done  
    10  Serialization                           done  
-   11  JVM, JRE, JDK                           ☐   
-   12  Memory Management                       ☐   
-   13  Garbage Collection                      ☐   
+   11  JVM, JRE, JDK                           done 
+   12  Memory Management                       done  
+   13  Garbage Collection                      done  
    14  List                                    ☐   
    15  ArrayList                               ☐   
    16  LinkedList                              ☐   
